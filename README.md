@@ -1,5 +1,9 @@
 # PROSTATE SEGMENTATION
 To provide an objective comparison between the established CNNs and ours, we created a pipeline that was used for training and testing all models. The repository consists of deep learning models that perform semantic segmentation of the prostate from CT/MR images.
+OS Linux i have used for 22.04 
+python3 3.10
+
+GPU nvidia Geforce 3050 
 
 
 ## 1. Project Directory ##
