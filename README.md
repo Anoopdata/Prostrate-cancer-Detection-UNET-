@@ -3,6 +3,9 @@ To provide an objective comparison between the established CNNs and ours, we cre
 OS Linux i have used for 22.04 
 python3 3.10
 
+
+complete setup and weight file download https://drive.google.com/drive/folders/1B6s7GY5pZ9zohSIXAcWexUaRa97Hijqh?usp=drive_link
+
 GPU nvidia Geforce 3050 
 
 
